@@ -18,10 +18,10 @@ Please refer the QuickRBF website.
 
 ## Installation
 
-On Unix systems, type 'make' to build all the programs of package. 
+On Unix systems, type ***make*** to build all the programs of package. 
 Run them without arguments to show the usages of them.
 
-On other systems, consult 'Makefile' to build them or use the 
+On other systems, consult ***Makefile*** to build them or use the 
 pre-built binaries.
 
 The format of training and testing data file is:
@@ -60,7 +60,9 @@ centerselect:
 Usage: quickrbf center_data_file training_data_file testing_data_file
 options:
 ```
-Yu-Yen Ou
+***Yu-Yen Ou***
+
 QuickRBF : An efficient package of Radial Basis Function Networks
-http://csie.org/~yien/quickrbf/
+
+[http://csie.org/~yien/quickrbf/](http://csie.org/~yien/quickrbf/)
 
