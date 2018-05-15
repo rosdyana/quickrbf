@@ -18,7 +18,7 @@ Please refer the QuickRBF website.
 
 ## Installation
 
-On Unix systems, type ***make*** to build all the programs of package. 
+On Unix systems, type ***make all*** to build all the programs of package. 
 Run them without arguments to show the usages of them.
 
 On other systems, consult ***Makefile*** to build them or use the 
