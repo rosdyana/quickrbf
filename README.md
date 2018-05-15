@@ -8,7 +8,7 @@ QuickRBF is available at
 
 http://csie.org/~yien/quickrbf/
 
-Please read the COPYRIGHT file before using QuickRBF package.
+Please read the [COPYRIGHT](COPYRIGHT) file before using QuickRBF package.
 
 ## Quick Start
 Please refer the QuickRBF website.
